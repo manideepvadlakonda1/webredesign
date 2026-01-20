@@ -96,7 +96,7 @@ export function Footer() {
           </div>
           <div className="flex justify-center mt-6 pt-6 border-t border-gray-800">
             <p className="text-gray-400 text-sm">
-              Designed and developed by{' '}
+              Designed and Developed by{' '}
               <a 
                 href="https://www.vikrin.com/" 
                 target="_blank" 
