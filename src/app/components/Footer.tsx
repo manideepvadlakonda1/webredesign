@@ -86,12 +86,9 @@ export function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-8">
-          <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+          <div className="flex flex-col md:flex-row justify-center items-center gap-4">
             <p className="text-gray-400 text-sm">
               © {currentYear} HOMYZO. All rights reserved.
-            </p>
-            <p className="text-gray-400 text-sm">
-              Made with ❤️ for finding your perfect home
             </p>
           </div>
           <div className="flex justify-center mt-6 pt-6 border-t border-gray-800">
